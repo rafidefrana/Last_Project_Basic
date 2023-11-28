@@ -15,11 +15,6 @@
   pointer-events: none;
 }
 
-img {
-  width: 100%;
-  height: auto;
-}
-
 :root {
   --bg-color: #fdfdfd;
   --text-color: #333;
