@@ -11,6 +11,10 @@
   font-family: "Poppins", sans-serif;
 }
 
+.disabled {
+  pointer-events: none;
+}
+
 :root {
   --bg-color: #fdfdfd;
   --text-color: #333;
